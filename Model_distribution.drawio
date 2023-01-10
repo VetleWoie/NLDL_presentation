@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T09:06:10.432Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" version="20.6.0" etag="kyoy_r3VCWDz9fkMUyiD" type="github"><diagram id="TQ3nA5l9nJsCWNs_Rbtd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-10T09:20:51.162Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" version="20.6.0" etag="mcRkFHGOPzYmgNgqYUAJ" type="github">
+  <diagram id="ad0gDdSb9m9MwRT_piUX" name="Page-1">
+    <mxGraphModel dx="2058" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="360" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-30" value="Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="200" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="Et4HCUxHD122gt2ohnPQ-41" target="Et4HCUxHD122gt2ohnPQ-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="440" as="sourcePoint" />
+            <mxPoint x="250" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-41" value="Dataset" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="385" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-50" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="453" y="400.63" width="397.5" height="81.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.37" y="295" width="20" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657.37" y="295" width="20" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-53" value="Worker n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="624.87" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-58" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="210" y="401.89" width="397.5" height="81.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384.37" y="296.26" width="20" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414.37" y="296.26" width="20" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-61" value="Worker 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="381.87" y="256.26" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-63" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400.63" width="397.5" height="81.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504.37" y="295" width="20" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534.37" y="295" width="20" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-66" value="Worker 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="501.87" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Et4HCUxHD122gt2ohnPQ-67" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/dot-more-menu-hide-128.png" vertex="1" parent="1">
+          <mxGeometry x="580" y="429.26" width="26.51" height="26.51" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
